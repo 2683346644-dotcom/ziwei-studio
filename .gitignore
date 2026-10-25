@@ -1,0 +1,9 @@
+node_modules/
+dist/
+release/win-unpacked/
+release/win-unpacked.tmp/
+release/*.exe
+release/*.blockmap
+release/builder-debug.yml
+.DS_Store
+Thumbs.db
